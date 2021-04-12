@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico&display=swap');
+
+/*Selector de elementos*/
+h2{
+    font-family: 'Pacifico Script', sans-serif;
+    color:darkblue;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+/*Selector de elementos*/
+h1{
+    font-family: 'Pacifico Script', sans-serif;
+    color:darkblue;
+    font-weight: bold;
+}
+
+
+/*Selector descendente*/
+
+p span {
+    font-weight: red ;
+    font-style: italic; 
+    text-decoration: underline;
+}
+
+/*Selector de clases*/
+.hola-mundo{
+    font-weight: bold;
+    color:darkgoldenrod
+}
+
+
+/*Selector de id*/
+#hola-mundo-especial{
+    font-weight: bold;
+    color:darkmagenta
+    
+    
+}
